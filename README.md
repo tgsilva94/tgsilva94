@@ -2,7 +2,6 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-felix-silva94/)
-[![Faceboock](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tiago.felix.750546/)
 
 ![ tgsilva94 GitHub stats](https://github-readme-stats.vercel.app/api?username=tgsilva94&show_icons=true&theme=cobalt)
 
@@ -15,4 +14,4 @@
    <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div></br>
  
- Atualmente cursando Full Stack Node no Bootcamp da DIGITALHOUSE
+ Atualmente cursando Desenvolvimento Web Full Stack na Kenziee Academy
